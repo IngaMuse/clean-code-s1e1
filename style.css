@@ -85,7 +85,7 @@
 .task,
 .task__name {
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .task__name {
@@ -124,13 +124,13 @@
 
 /* Completed */
 #completed .task__name {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .list__item .task {
-  display: none
+  display: none;
 }
 
 .edit__mode .task {
