@@ -123,21 +123,25 @@
 }
 
 /* Completed */
-#completed .task__name {
+#completed 
+.task__name {
   text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
-.list__item .task {
+.list__item 
+.task {
   display: none;
 }
 
-.edit__mode .task {
+.edit__mode 
+.task {
   display: inline-block;
 }
 
-.edit__mode .task__name {
+.edit__mode 
+.task__name {
   display: none;
 }
 
