@@ -53,7 +53,7 @@
 }
 
 /* New Task */
-.tasks-list__add {
+.new-tasks__add {
   display: flex;
 }
 
